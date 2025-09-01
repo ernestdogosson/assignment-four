@@ -1,0 +1,54 @@
+.logo {
+	display: inline-block;
+	font-family: 'Montserrat', sans-serif;
+	font-optical-sizing: auto;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 30px;
+	line-height: 1.6;
+	letter-spacing: -2%;
+	margin-top: 37px;
+	margin-left: 80px;
+	color: #0a1b32;
+}
+
+.logo-dot {
+	color: #fc569a;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	color: #0a1b42;
+	font-size: 16px;
+	margin-top: 48px;
+}
+
+.home {
+	margin-left: 98px;
+}
+
+.about,
+.contact {
+	margin-left: 38px;
+}
+
+.blog {
+	margin-left: 40px;
+}
+
+.sign-in {
+	margin-left: 752px;
+}
+
+.sign-up {
+	margin-left: 40px;
+	background-color: #fc569a;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	width: 120px;
+	height: 60px;
+	border: none;
+}
