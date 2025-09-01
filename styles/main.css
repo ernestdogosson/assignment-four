@@ -1,27 +1,43 @@
 main {
 	display: flex;
-	gap: ;
 	margin: 200px 200px;
 }
 
-section {
+.main,
+.main-img {
 	flex: 1;
 }
 
-h1 {
+.main-title {
 	font-family: 'Ramaraja', serif;
 	font-size: 72px;
 	color: #1b0a42;
 	width: 100%;
 	max-width: 495px;
 	letter-spacing: 2;
+	margin: 0;
+	padding: 0;
 }
 
-p {
+.main-info {
 	font-family: 'Roboto', sans-serif;
 	width: 100%;
 	max-width: 538px;
 	line-height: 1.6;
 	color: #9a9a9a;
 	letter-spacing: 0.02em;
+	margin: 0;
+}
+
+.learn-more-btn {
+	font-family: 'Roboto' sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 6px;
+	border: none;
+	color: #fff;
+	background-color: #fc569a;
+	width: 152px;
+	height: 64px;
+	margin-top: 50px;
 }

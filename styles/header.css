@@ -18,7 +18,7 @@ header {
 }
 
 .logo-dot {
-	color: #4f56f1;
+	color: #fc569a;
 }
 
 nav {
@@ -26,7 +26,6 @@ nav {
 	margin-top: 37px;
 	margin-left: 96px;
 	font-size: 1rem;
-	color: #1b0a42;
 	font-weight: 400;
 }
 
@@ -40,6 +39,25 @@ ul {
 	gap: 28px;
 }
 
+a {
+	color: #1b0a42;
+	text-decoration: none;
+}
+
 .sign-in {
-	margin-top: 37px;
+	margin: 37px 68px 0 0;
+	color: #1b0a42;
+}
+
+.sign-up {
+	background-color: #fc569a;
+	color: #fff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	width: 120px;
+	height: 60px;
+	border-radius: 6px;
+	border: none;
+	margin-left: 40px;
 }
