@@ -1,0 +1,40 @@
+.main-title {
+	font-family: 'Ramaraja', serif;
+	font-size: 72px;
+	color: #1b0a42;
+	line-height: 1.1;
+	letter-spacing: 0.02em;
+	width: 100%;
+	max-width: 495px;
+	margin-top: 281px;
+	margin-left: 200px;
+}
+
+.main-info {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	line-height: 1.6;
+	width: 100%;
+	max-width: 582px;
+	color: #9a9a9a;
+	margin-top: 10px;
+	margin-left: 200px;
+}
+
+.main-learn-btn {
+	background-color: #fc569a;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	width: 152px;
+	height: 64px;
+	border: none;
+	border-radius: 6px;
+	margin-top: 50px;
+	margin-left: 200px;
+}
+
+section {
+	display: inline-block;
+}
