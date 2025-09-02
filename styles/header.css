@@ -19,6 +19,14 @@ a {
 	color: #0a1b42;
 	font-size: 16px;
 	margin-top: 48px;
+	cursor: pointer;
+	transition: 0.2s;
+}
+
+a:hover {
+	color: #fc569a;
+	font-weight: bold;
+	font-weight: 1.2rem;
 }
 
 .home {
@@ -38,7 +46,7 @@ a {
 	margin-left: 752px;
 }
 
-.sign-up {
+.sign-up-btn {
 	margin-left: 40px;
 	background-color: #fc569a;
 	color: #ffffff;
@@ -49,4 +57,13 @@ a {
 	height: 60px;
 	border: none;
 	border-radius: 6px;
+	transition: 0.2s;
+}
+
+.sign-up-btn:hover {
+	filter: brightness(0.8);
+}
+
+.main-learn-btn:hover {
+	filter: brightness(0.8);
 }
